@@ -1,0 +1,14 @@
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\netstandard2.1\AdventureWorks.Context.deps.json
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\netstandard2.1\AdventureWorks.Context.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\netstandard2.1\AdventureWorks.Context.pdb
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\netstandard2.1\AdventureWorks.Models.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\netstandard2.1\AdventureWorks.Models.pdb
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\netstandard2.1\AdventureWorks.Context.csprojAssemblyReference.cache
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\netstandard2.1\AdventureWorks.Context.AssemblyInfoInputs.cache
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\netstandard2.1\AdventureWorks.Context.AssemblyInfo.cs
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\netstandard2.1\AdventureWorks.Context.csproj.CoreCompileInputs.cache
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\netstandard2.1\AdventureWorks.Context.csproj.CopyComplete
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\netstandard2.1\AdventureWorks.Context.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\obj\Debug\netstandard2.1\AdventureWorks.Context.pdb
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\netstandard2.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+F:\Allfiles\Labs\04\Starter\AdventureWorks\AdventureWorks.Context\bin\Debug\netstandard2.1\Cosmos.CRTCompat.dll
